@@ -1,0 +1,6 @@
+lanuage: minimal
+
+services: docker
+
+env:
+  - DOCKER_COMPOSE_VERSION=1.2.13
